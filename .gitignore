@@ -1,0 +1,17 @@
+# Dependencias y módulos generados
+node_modules/
+dist/
+bundle.js
+yarn.lock
+package-lock.json
+
+# Archivos de desarrollo y configuración
+.vscode/
+.DS_Store
+.env
+
+# Archivos de compilación o generados por herramientas de construcción
+build/
+out/
+*.log
+
